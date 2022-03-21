@@ -1,0 +1,8 @@
+C:\Users\sande\source\repos\EnumCSHARP\EnumCSHARP\bin\Debug\EnumCSHARP.exe.config
+C:\Users\sande\source\repos\EnumCSHARP\EnumCSHARP\bin\Debug\EnumCSHARP.exe
+C:\Users\sande\source\repos\EnumCSHARP\EnumCSHARP\bin\Debug\EnumCSHARP.pdb
+C:\Users\sande\source\repos\EnumCSHARP\EnumCSHARP\obj\Debug\EnumCSHARP.csproj.AssemblyReference.cache
+C:\Users\sande\source\repos\EnumCSHARP\EnumCSHARP\obj\Debug\EnumCSHARP.csproj.SuggestedBindingRedirects.cache
+C:\Users\sande\source\repos\EnumCSHARP\EnumCSHARP\obj\Debug\EnumCSHARP.csproj.CoreCompileInputs.cache
+C:\Users\sande\source\repos\EnumCSHARP\EnumCSHARP\obj\Debug\EnumCSHARP.exe
+C:\Users\sande\source\repos\EnumCSHARP\EnumCSHARP\obj\Debug\EnumCSHARP.pdb
